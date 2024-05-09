@@ -4,8 +4,9 @@ This project uses API from OpenAI to make a DSA chatbot that can answer some spe
 Đinh Thị Hiền
 Đoàn Thị Thùy Linh
 Bùi Chu Bảo Yến
-# Technology use: OpenAi API; Python and Chain Library; other
+# Technology use: 
+OpenAi API; Python and Chain Library; other
 # Time Completed:
-# Beyond the code, we also write research about how to train chatbots to become DSA bots.
-# Thank you for reading!
+Beyond the code, we also write research about how to train chatbots to become DSA bots.
+Thank you for reading!
 
