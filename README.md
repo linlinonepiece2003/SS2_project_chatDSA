@@ -1,5 +1,5 @@
 # SS2_project_chatDSA
-This project uses API from OpenAI to make a DSA chatbot that can answer some specialized issues about this topic.
+This project uses API from GerminiAI to make a DSA chatbot that can answer some specialized issues about this topic.
 # Group Members: 
 Đinh Thị Hiền
 Đoàn Thị Thùy Linh
