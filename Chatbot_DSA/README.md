@@ -26,18 +26,16 @@ To run the DSA Tutor Chatbot please follow these steps:
 
 pip install -r requirements.txt
 
-Pip install -U langchain community
+pip install -U langchain community
 
 - Obtain an API key from OpenAI and add it to the .env file in the project directory.
 
 OPENAI_API_KEY=your_secret_api_key
 
-4. Usage
-To use The   DSA Tutor Chatbot, follow these steps:
 
-Ensure that you have installed the required dependencies and added the OpenAI API key to the .env file.
+- Ensure that you have installed the required dependencies and added the OpenAI API key to the .env file.
 
-Run the bot.py file using the Streamlit CLI. Execute the following command:
+- Run the bot.py file using the Streamlit CLI. Execute the following command:
 streamlit run bot.py
 
 The application will launch in your default web browser, displaying the user interface.
