@@ -36,6 +36,7 @@ OPENAI_API_KEY=your_secret_api_key
 - Ensure that you have installed the required dependencies and added the OpenAI API key to the .env file.
 
 - Run the bot.py file using the Streamlit CLI. Execute the following command:
+  
 streamlit run bot.py
 
 The application will launch in your default web browser, displaying the user interface.
