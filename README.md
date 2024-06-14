@@ -5,7 +5,7 @@ This project uses API from GerminiAI to make a DSA chatbot that can answer some 
 Đoàn Thị Thùy Linh
 Bùi Chu Bảo Yến
 # Technology use: 
-OpenAi API; Python and Chain Library; other
+Germini API; Python and LangChain Library
 # Time Completed:
 Beyond the code, we also write research about how to train chatbots to become DSA bots.
 Thank you for reading!
