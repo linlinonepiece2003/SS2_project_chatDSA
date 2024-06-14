@@ -25,6 +25,7 @@ To run the DSA Tutor Chatbot please follow these steps:
 - Install the required dependencies by running the following command:
 
 pip install -r requirements.txt
+
 Pip install -U langchain community
 
 - Obtain an API key from OpenAI and add it to the .env file in the project directory.
