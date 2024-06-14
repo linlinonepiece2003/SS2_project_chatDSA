@@ -33,7 +33,7 @@ pip install -U langchain community
 OPENAI_API_KEY=your_secret_api_key
 
 
-- Ensure that you have installed the required dependencies and added the OpenAI API key to the .env file.
+- Ensure that you have installed the required dependencies and added the OpenAI API key to the .env file. ( you should add this file into folder to run)
 
 - Run the bot.py file using the Streamlit CLI. Execute the following command:
   
