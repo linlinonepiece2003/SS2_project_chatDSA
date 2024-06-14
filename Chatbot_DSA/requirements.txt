@@ -1,4 +1,4 @@
-streamlit =1.11.1
+streamlit 
 altair
 google-generativeai
 python-dotenv
